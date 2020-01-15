@@ -19,7 +19,7 @@
         <alibaba.dubbo.version>2.6.5</alibaba.dubbo.version>
         <lombok.version>1.18.10</lombok.version>
         <easyexcel.version>2.1.4</easyexcel.version>
-        <google.guava.version>28.1-jre</google.guava.version>
+        <google.guava.version>28.2-jre</google.guava.version>
     </properties>
     <distributionManagement>
         <repository>
