@@ -30,7 +30,7 @@
         <swagger-bootstrap-ui.version>1.9.3</swagger-bootstrap-ui.version>
         <dubbo-spring-boot-starter.version>2.7.7</dubbo-spring-boot-starter.version>
         <nacos-spring-boot-starter.version>2.1.2.RELEASE</nacos-spring-boot-starter.version>
-        <dubbo.version>2.7.7</dubbo.version>
+        <dubbo.version>2.7.13</dubbo.version>
         <spring.boot.version>2.1.5.RELEASE</spring.boot.version>
         <com.alibaba.spring.version>1.0.6</com.alibaba.spring.version>
     </properties>
